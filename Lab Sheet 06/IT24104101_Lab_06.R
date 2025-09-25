@@ -1,4 +1,4 @@
-setwd("/Users/kavinduumayanga/Desktop/IT24104102_Lab_06")
+setwd("/Users/kavindu/Desktop/IT24104101_Lab_06")
 
 
 #Question 01
