@@ -1,4 +1,4 @@
-setwd("/Users/kavindu/Desktop/IT24104101_Lab_06")
+setwd("C:/Users/user/Desktop/IT24104101_Lab_6.pdf")
 
 
 #Question 01
